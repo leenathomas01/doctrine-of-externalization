@@ -196,3 +196,18 @@ Further work may include:
 - or formal verification of containment mechanisms.
 
 Expansion without coherence is intentionally resisted.
+---
+
+## Related Work
+
+This repository proposes moving trust into auditable adversarial layers rather than relying on internal model alignment.
+
+**For a complete catalog of related research:**  
+📂 [AI Safety & Systems Architecture Research Index](https://github.com/leenathomas01/research-index)
+
+**Thematically related:**
+- [PARP](https://github.com/leenathomas01/Power-Asymmetry-Restraint-Protocol-PARP) — Governance under opacity
+- [Embodied Agent Governance](https://github.com/leenathomas01/embodied-agent-governance) — External failure knowledge for agents
+- [The Continuity Problem](https://github.com/leenathomas01/The-Continuity-Problem) — Why governance must precede autonomy
+
+---
