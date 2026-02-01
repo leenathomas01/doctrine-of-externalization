@@ -196,6 +196,7 @@ Further work may include:
 - or formal verification of containment mechanisms.
 
 Expansion without coherence is intentionally resisted.
+
 ---
 
 ## Related Work
