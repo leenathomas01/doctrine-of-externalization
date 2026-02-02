@@ -12,4 +12,4 @@
 > This material should be read as exploratory design, not prescriptive guidance.
 
 
-Repo at https://github.com/leenathomas01/Confluence-Architecture 
+Repo set to private, please contact for access.
